@@ -1,0 +1,10 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 213 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.10.51:3000/
+7:08:09 AM [vite] Pre-transform error: Failed to resolve import "@imgly/background-removal" from "src/components/BackgroundRemover.jsx". Does the file exist?
